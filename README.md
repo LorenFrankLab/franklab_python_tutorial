@@ -4,7 +4,8 @@ Python tutorial for the Frank lab
 
 
 ## Installation
-1. git clone https://github.com/LorenFrankLab/franklab_python_tutorial.git
+1. Download the respository:
+   ```git clone https://github.com/LorenFrankLab/franklab_python_tutorial.git```
 2. Change into franklab_python_tutorial directory:
 ```cd franklab_python_tutorial```
 3. Create conda environment (installs packages into environment):
