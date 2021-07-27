@@ -1,4 +1,4 @@
-name: analysis_template
+name: franklab_python_tutorial
 channels:
 - defaults
 - conda-forge

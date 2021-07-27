@@ -13,8 +13,8 @@ install:
   - conda update -q conda
   - conda info -a
   - conda env create -f environment.yml
-  - source activate analysis_template
+  - source activate franklab_python_tutorial
   - python setup.py develop
-script: pytest --cov=analysis_template tests/
+script: pytest --cov=franklab_python_tutorial tests/
 after_success:
     - coveralls
