@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LorenFrankLab/franklab_python_tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LorenFrankLab/franklab_python_tutorial/HEAD?urlpath=lab)
 # franklab_python_tutorial
 Python tutorial for the Frank lab
 
