@@ -1,5 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LorenFrankLab/franklab_python_tutorial/HEAD)
 # franklab_python_tutorial
-Repository description goes here.
+Python tutorial for the Frank lab
 
 
 ## Installation
