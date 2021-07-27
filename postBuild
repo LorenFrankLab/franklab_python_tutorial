@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# This is only for using the repository on binder (online)
-pip install --editable .
